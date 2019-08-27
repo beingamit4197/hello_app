@@ -8,5 +8,6 @@ class ApplicationController < ActionController::Base
 
   def amit
     @name = "Sonu"
+    @dob = 4197
   end
 end
