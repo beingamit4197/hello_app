@@ -7,6 +7,6 @@ class ApplicationController < ActionController::Base
   end
 
   def amit
-    @name = "Amit"
+    @name = "Sonu"
   end
 end
