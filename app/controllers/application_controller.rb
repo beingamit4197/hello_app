@@ -3,7 +3,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def name
-    render "test"
+    render html: "hello : Amit"
   end
 
   def amit
