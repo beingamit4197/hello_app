@@ -1,0 +1,1 @@
+<%= image_tag("Planet-Earth-640x431.jpg", :alt => "rss feed") %>
