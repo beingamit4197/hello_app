@@ -4,10 +4,10 @@ class ApplicationController < ActionController::Base
 
   def name
     render html: "hello : Amit"
-  end
+  end           
 
   def amit
-    @name = "Sonu"
+    @name = "Amit"
     @dob = 4197
   end
 end
