@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
   end           
 
   def amit
-    @name = "Amit"
-    @dob = 4197
+    @name = "Amit Rawat"
+    @contact = 8090912194
   end
 end
